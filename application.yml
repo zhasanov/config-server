@@ -1,6 +1,6 @@
 configserver:
     name: JHipster Registry config server
-    status: Connected to the JHipster Registry config server, using https://github.com/jhipster/jhipster-registry-sample-config !
+    status: Connected to the JHipster Registry config server, using https://github.com/qasanov/config-server !
 
 # Default JWT secret token (to be changed in production!)
 jhipster:
