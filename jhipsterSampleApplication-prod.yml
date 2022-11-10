@@ -10,3 +10,6 @@ jhipster:
                 secret: bXktc2VjcmV0LXRva2VuLXRvLWNoYW5nZS1pbi1wcm9kdWN0aW9uLWFuZC10by1rZWVwLWluLWEtc2VjdXJlLXBsYWNl
 server :
     port: 9092
+    
+myconfig :
+    message : Prod profile message    
