@@ -12,4 +12,4 @@ jhipster:
 #    port: 9092
     
 myconfig :
-    message : Prod profile message    
+    message : Prod profile message  222  
