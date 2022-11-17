@@ -13,4 +13,4 @@ jhipster:
     
     
 myconfig :
-    message : Dev profile message
+    message : ${MY_MESSAGE} 
